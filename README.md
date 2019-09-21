@@ -1,0 +1,2 @@
+# Suclerious
+Discord bot
