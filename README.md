@@ -1,2 +1,2 @@
-# Suclerious
-Discord bot
+Ello
+Suppity sup youngin

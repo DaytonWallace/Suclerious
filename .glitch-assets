@@ -1,0 +1,32 @@
+{
+  "name": "Jim",
+  "version": "0.0.1",
+  "description": "A multipurpose Discord bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+},
+{
+  "author": "Dayton Wallace",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.0.4",
+    "enmap-level": "^2.0.2",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.0"
+  }
+{"name":"package.json","date":"2018-08-11T23:44:40.796Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fpackage.json","type":"application/json","size":999,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fthumbnails%2Fpackage.json","thumbnailWidth":210,"thumbnailHeight":210,"dominantColor":"rgba(176, 62, 221, 0.60)","uuid":"kTy2YzvCeqwqsVdB"}
+{"name":"image.png","date":"2019-03-03T01:19:28.465Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","type":"image/png","size":7618,"imageWidth":150,"imageHeight":150,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","thumbnailWidth":150,"thumbnailHeight":150,"dominantColor":null,"uuid":"uA5WJg4TH5SmQevC"}
+{"uuid":"uA5WJg4TH5SmQevC","deleted":true}
+{"name":"image.png","date":"2019-03-03T01:31:03.783Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","type":"image/png","size":7618,"imageWidth":150,"imageHeight":150,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","thumbnailWidth":150,"thumbnailHeight":150,"dominantColor":null,"uuid":"duEqFRjU5mDN5KDr"}
+{"uuid":"duEqFRjU5mDN5KDr","deleted":true}
+{"name":"image.png","date":"2019-03-03T01:31:42.132Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","type":"image/png","size":7618,"imageWidth":150,"imageHeight":150,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","thumbnailWidth":150,"thumbnailHeight":150,"dominantColor":null,"uuid":"4uRIoy8idfBDsvDq"}
+{"name":"image.png","date":"2019-03-25T13:29:47.490Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","type":"image/png","size":166062,"imageWidth":294,"imageHeight":389,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fthumbnails%2Fimage.png","thumbnailWidth":250,"thumbnailHeight":330,"dominantColor":"rgb(244,246,252)","uuid":"359rauWY6dcdUgkC"}
+{"uuid":"4uRIoy8idfBDsvDq","deleted":true}
+{"name":"image.png","date":"2019-03-30T08:59:06.920Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","type":"image/png","size":58526,"imageWidth":216,"imageHeight":144,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Fimage.png","thumbnailWidth":216,"thumbnailHeight":144,"dominantColor":"rgb(57,38,30)","uuid":"rIe3rfIpyjY2zdE9"}
+{"uuid":"rIe3rfIpyjY2zdE9","deleted":true}
+{"name":"tenor.gif","date":"2019-03-30T09:00:21.248Z","url":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Ftenor.gif","type":"image/gif","size":2823481,"imageWidth":216,"imageHeight":144,"thumbnail":"https://cdn.glitch.com/7695030a-fded-465b-96b6-6b170a06d483%2Ftenor.gif","thumbnailWidth":216,"thumbnailHeight":144,"dominantColor":"rgb(57,38,30)","uuid":"lUEPWSNuFDhDMoXn"}
+}

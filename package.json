@@ -1,0 +1,31 @@
+{
+  "name": "Jim",
+  "version": "0.0.1",
+  "description": "A multipurpose Discord bot.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "10.15.0"
+  },
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "canvas-constructor": "^1.0.1",
+    "chalk": "^2.3.0",
+    "cleverbot.io": "^1.0.4",
+    "discord-economy": "^1.1.6",
+    "enmap": "^3.1.0",
+    "enmap-level": "^2.1.0",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "knock-knock-jokes": "^1.7.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "pm2": "^3.0.3",
+    "sequelize": "^5.2.7",
+    "sloc": "^0.2.1",
+    "sqlite3": "^4.0.6",
+    "discord.js": "^11.5.1"
+  }
+}
